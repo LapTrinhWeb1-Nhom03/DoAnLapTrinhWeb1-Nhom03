@@ -2,7 +2,6 @@
 <html>
 <body>
 <header id="header"><!--header-->
-		
 		<div class="header-middle"><!--header_top-->
 			<div class="container">
 				<div class="row">
@@ -23,7 +22,6 @@
 				</div>
 			</div>
 		</div><!--header_top-->
-	
 		<div class="header-bottom"><!--header-bottom-->
 			<div class="container">
 				<div class="row">
@@ -69,7 +67,5 @@
 			</div>
 		</div><!--/header-bottom-->
 	</header><!--/header-->
-
-
 </body>
 </html>
