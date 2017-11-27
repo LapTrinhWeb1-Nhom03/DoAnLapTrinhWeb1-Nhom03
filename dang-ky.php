@@ -76,7 +76,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
   <?php
     include("module/header.php");
   ?> 
-
 <div class="container">
 	<div class="row">
     <div class="col-md-12">
