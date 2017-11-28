@@ -45,7 +45,6 @@
         </div>
     </div>
 </div>
-
   <?php 
     include("module/footer.php");
    ?>
