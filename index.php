@@ -508,6 +508,7 @@
 	<?php 
 		include("module/footer.php");
 	 ?>
+	 
   
     <script src="js/jquery.js"></script>
 	<script src="js/bootstrap.min.js"></script>
