@@ -1,7 +1,7 @@
 <?php
 	include_once 'lib/db.php';
 	include_once 'cart.inc';
-	include_once 'vendor/autoload.php';
+	include_once 'claim/autoload.php';
 	use Gregwar\Captcha\CaptchaBuilder;
 	if(!isset($_SESSION["SoLanDangNhapSai"]))
 	{

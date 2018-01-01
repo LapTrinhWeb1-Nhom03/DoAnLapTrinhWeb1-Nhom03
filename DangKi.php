@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	include_once 'lib/db.php';
-	include_once 'vendor/autoload.php';
+	include_once 'claim/autoload.php';
 	use Gregwar\Captcha\CaptchaBuilder;
 
 	if($_SESSION["Da_Dang_Nhap"]==1)
